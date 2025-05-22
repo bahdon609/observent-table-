@@ -5,6 +5,10 @@
 
 .table-primary-bg {
     background-color: white;
+    /* background-image: url(observent.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; */
 }
 
 .table-range-cell {
